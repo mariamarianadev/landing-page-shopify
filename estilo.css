@@ -4,8 +4,12 @@
 }
 header{
     background-image: url(fundo.svg);
-    width: 60%;
-    height: 580px;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+    display: flex;
+justify-content: center;
+align-items: center;
 
 }
 .topo{
@@ -15,6 +19,7 @@ header{
 .topo div.cabecario {
 display: flex;
 justify-content: center;
+align-items: center;
 }
 .topo h3{
     display: flex;
