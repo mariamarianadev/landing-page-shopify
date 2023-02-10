@@ -1,0 +1,48 @@
+
+.topo{
+    background-color: rgba(2, 50, 8, 0.829);
+    color: white;
+}
+.topo div.cabecario {
+display: flex;
+justify-content: center;
+}
+.topo h3{
+    display: flex;
+    justify-content: center;
+}
+.topo div.botoes{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+.topo button {
+    background-color: black;
+    color: antiquewhite;
+    width: auto;
+    height: 45px;
+    padding: 5px 16px ;
+    border-radius: 10px;
+}
+.topo input{
+    margin-right: 7px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: antiquewhite;
+}
+
+.imag{
+    width: 20px;
+    height: 20px;
+}
+.logo{   
+    display: flex;
+    justify-content: block;
+    width: 70px ;
+    height: 70px ;
+
+}
+.cor-logo{
+    background-color: rgba(2, 50, 8, 0.829);
+}
