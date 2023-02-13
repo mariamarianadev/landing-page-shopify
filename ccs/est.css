@@ -1,0 +1,15 @@
+
+.cab {      
+    background-color: rgba(3, 70, 3, 0.747);
+    color: aliceblue;
+
+}
+
+  
+.secao-detalhes { 
+    display: center;
+    justify-content: space-aroundd;
+}
+article {
+    width: 10%;
+}
